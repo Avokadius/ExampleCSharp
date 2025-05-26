@@ -1,0 +1,15 @@
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.AssemblyInfoInputs.cache
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.AssemblyInfo.cs
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.csproj.CoreCompileInputs.cache
+D:\IT Academy\ExampleDZ\Table\bin\Debug\net9.0\Table.exe
+D:\IT Academy\ExampleDZ\Table\bin\Debug\net9.0\Table.deps.json
+D:\IT Academy\ExampleDZ\Table\bin\Debug\net9.0\Table.runtimeconfig.json
+D:\IT Academy\ExampleDZ\Table\bin\Debug\net9.0\Table.dll
+D:\IT Academy\ExampleDZ\Table\bin\Debug\net9.0\Table.pdb
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.dll
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\refint\Table.dll
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.pdb
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.genruntimeconfig.cache
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\ref\Table.dll
+D:\IT Academy\ExampleDZ\Table\obj\Debug\net9.0\Table.sourcelink.json

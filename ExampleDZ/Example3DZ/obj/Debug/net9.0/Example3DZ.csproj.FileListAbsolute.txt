@@ -1,0 +1,14 @@
+D:\IT Academy\ExampleDZ\Example3DZ\bin\Debug\net9.0\Example3DZ.exe
+D:\IT Academy\ExampleDZ\Example3DZ\bin\Debug\net9.0\Example3DZ.deps.json
+D:\IT Academy\ExampleDZ\Example3DZ\bin\Debug\net9.0\Example3DZ.runtimeconfig.json
+D:\IT Academy\ExampleDZ\Example3DZ\bin\Debug\net9.0\Example3DZ.dll
+D:\IT Academy\ExampleDZ\Example3DZ\bin\Debug\net9.0\Example3DZ.pdb
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\Example3DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\Example3DZ.AssemblyInfoInputs.cache
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\Example3DZ.AssemblyInfo.cs
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\Example3DZ.csproj.CoreCompileInputs.cache
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\Example3DZ.dll
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\refint\Example3DZ.dll
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\Example3DZ.pdb
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\Example3DZ.genruntimeconfig.cache
+D:\IT Academy\ExampleDZ\Example3DZ\obj\Debug\net9.0\ref\Example3DZ.dll

@@ -1,0 +1,14 @@
+D:\IT Academy\ExampleDZ\ExampleDZ\bin\Debug\net9.0\ExampleDZ.exe
+D:\IT Academy\ExampleDZ\ExampleDZ\bin\Debug\net9.0\ExampleDZ.deps.json
+D:\IT Academy\ExampleDZ\ExampleDZ\bin\Debug\net9.0\ExampleDZ.runtimeconfig.json
+D:\IT Academy\ExampleDZ\ExampleDZ\bin\Debug\net9.0\ExampleDZ.dll
+D:\IT Academy\ExampleDZ\ExampleDZ\bin\Debug\net9.0\ExampleDZ.pdb
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ExampleDZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ExampleDZ.AssemblyInfoInputs.cache
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ExampleDZ.AssemblyInfo.cs
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ExampleDZ.csproj.CoreCompileInputs.cache
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ExampleDZ.dll
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\refint\ExampleDZ.dll
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ExampleDZ.pdb
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ExampleDZ.genruntimeconfig.cache
+D:\IT Academy\ExampleDZ\ExampleDZ\obj\Debug\net9.0\ref\ExampleDZ.dll
