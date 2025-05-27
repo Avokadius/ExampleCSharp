@@ -1,0 +1,15 @@
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\bin\Debug\net9.0\ExampleDZLesson6.exe
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\bin\Debug\net9.0\ExampleDZLesson6.deps.json
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\bin\Debug\net9.0\ExampleDZLesson6.runtimeconfig.json
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\bin\Debug\net9.0\ExampleDZLesson6.dll
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\bin\Debug\net9.0\ExampleDZLesson6.pdb
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.AssemblyInfoInputs.cache
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.AssemblyInfo.cs
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.csproj.CoreCompileInputs.cache
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.sourcelink.json
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.dll
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\refint\ExampleDZLesson6.dll
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.pdb
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ExampleDZLesson6.genruntimeconfig.cache
+D:\IT Academy\ExampleDZITAcademy\ExampleDZLesson6\ExampleDZLesson6\obj\Debug\net9.0\ref\ExampleDZLesson6.dll
