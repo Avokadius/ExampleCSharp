@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23CECAE9-038E-4441-B7C5-A0D57793C0F8}|HomeWork7\\HomeWork7.csproj|d:\\exemplecsharp\\examplecsharp\\homework7\\homework7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CECAE9-038E-4441-B7C5-A0D57793C0F8}|HomeWork7\\HomeWork7.csproj|solutionrelative:homework7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CECAE9-038E-4441-B7C5-A0D57793C0F8}|HomeWork7\\HomeWork7.csproj|d:\\exemplecsharp\\examplecsharp\\homework7\\homework7\\homework7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23CECAE9-038E-4441-B7C5-A0D57793C0F8}|HomeWork7\\HomeWork7.csproj|solutionrelative:homework7\\homework7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B363F5E-D79A-450D-8E9C-BDE7F06DF50B}|HomeWork7_2\\HomeWork7_2.csproj|d:\\exemplecsharp\\examplecsharp\\homework7\\homework7_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B363F5E-D79A-450D-8E9C-BDE7F06DF50B}|HomeWork7_2\\HomeWork7_2.csproj|solutionrelative:homework7_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B363F5E-D79A-450D-8E9C-BDE7F06DF50B}|HomeWork7_2\\HomeWork7_2.csproj|d:\\exemplecsharp\\examplecsharp\\homework7\\homework7_2\\homework7_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B363F5E-D79A-450D-8E9C-BDE7F06DF50B}|HomeWork7_2\\HomeWork7_2.csproj|solutionrelative:homework7_2\\homework7_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeWork7.csproj",
+              "DocumentMoniker": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7\\HomeWork7.csproj",
+              "RelativeDocumentMoniker": "HomeWork7\\HomeWork7.csproj",
+              "ToolTip": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7\\HomeWork7.csproj",
+              "RelativeToolTip": "HomeWork7\\HomeWork7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T20:16:17.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeWork7_2.csproj",
+              "DocumentMoniker": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7_2\\HomeWork7_2.csproj",
+              "RelativeDocumentMoniker": "HomeWork7_2\\HomeWork7_2.csproj",
+              "ToolTip": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7_2\\HomeWork7_2.csproj",
+              "RelativeToolTip": "HomeWork7_2\\HomeWork7_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T20:16:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7_2\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork7_2\\Program.cs",
+              "ToolTip": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7_2\\Program.cs",
+              "RelativeToolTip": "HomeWork7_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:48:18.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork7\\Program.cs",
+              "ToolTip": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork7\\HomeWork7\\Program.cs",
+              "RelativeToolTip": "HomeWork7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:17:18.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Example\HomeWork7\HomeWork7_2\bin\Debug\net9.0\HomeWork7_2.exe
+D:\Example\HomeWork7\HomeWork7_2\bin\Debug\net9.0\HomeWork7_2.deps.json
+D:\Example\HomeWork7\HomeWork7_2\bin\Debug\net9.0\HomeWork7_2.runtimeconfig.json
+D:\Example\HomeWork7\HomeWork7_2\bin\Debug\net9.0\HomeWork7_2.dll
+D:\Example\HomeWork7\HomeWork7_2\bin\Debug\net9.0\HomeWork7_2.pdb
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\HomeWork7_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\HomeWork7_2.AssemblyInfoInputs.cache
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\HomeWork7_2.AssemblyInfo.cs
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\HomeWork7_2.csproj.CoreCompileInputs.cache
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\HomeWork7_2.dll
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\refint\HomeWork7_2.dll
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\HomeWork7_2.pdb
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\HomeWork7_2.genruntimeconfig.cache
+D:\Example\HomeWork7\HomeWork7_2\obj\Debug\net9.0\ref\HomeWork7_2.dll
