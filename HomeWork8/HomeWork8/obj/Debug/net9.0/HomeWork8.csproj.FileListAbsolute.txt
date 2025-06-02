@@ -1,0 +1,14 @@
+D:\Example\HomeWork8\HomeWork8\bin\Debug\net9.0\HomeWork8.exe
+D:\Example\HomeWork8\HomeWork8\bin\Debug\net9.0\HomeWork8.deps.json
+D:\Example\HomeWork8\HomeWork8\bin\Debug\net9.0\HomeWork8.runtimeconfig.json
+D:\Example\HomeWork8\HomeWork8\bin\Debug\net9.0\HomeWork8.dll
+D:\Example\HomeWork8\HomeWork8\bin\Debug\net9.0\HomeWork8.pdb
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\HomeWork8.AssemblyInfoInputs.cache
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\HomeWork8.AssemblyInfo.cs
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\HomeWork8.csproj.CoreCompileInputs.cache
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\HomeWork8.dll
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\refint\HomeWork8.dll
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\HomeWork8.pdb
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\HomeWork8.genruntimeconfig.cache
+D:\Example\HomeWork8\HomeWork8\obj\Debug\net9.0\ref\HomeWork8.dll
