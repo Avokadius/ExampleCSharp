@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Example\\HomeWork11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{787F96AD-66E9-42F1-B88F-C9890CE11DC5}|HomeWork11\\HomeWork11.csproj|d:\\example\\homework11\\homework11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787F96AD-66E9-42F1-B88F-C9890CE11DC5}|HomeWork11\\HomeWork11.csproj|solutionrelative:homework11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787F96AD-66E9-42F1-B88F-C9890CE11DC5}|HomeWork11\\HomeWork11.csproj|d:\\example\\homework11\\homework11\\outofrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787F96AD-66E9-42F1-B88F-C9890CE11DC5}|HomeWork11\\HomeWork11.csproj|solutionrelative:homework11\\outofrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787F96AD-66E9-42F1-B88F-C9890CE11DC5}|HomeWork11\\HomeWork11.csproj|d:\\example\\homework11\\homework11\\numbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787F96AD-66E9-42F1-B88F-C9890CE11DC5}|HomeWork11\\HomeWork11.csproj|solutionrelative:homework11\\numbervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberValidator.cs",
+              "DocumentMoniker": "D:\\Example\\HomeWork11\\HomeWork11\\NumberValidator.cs",
+              "RelativeDocumentMoniker": "HomeWork11\\NumberValidator.cs",
+              "ToolTip": "D:\\Example\\HomeWork11\\HomeWork11\\NumberValidator.cs",
+              "RelativeToolTip": "HomeWork11\\NumberValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:14:51.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutOfRangeException.cs",
+              "DocumentMoniker": "D:\\Example\\HomeWork11\\HomeWork11\\OutOfRangeException.cs",
+              "RelativeDocumentMoniker": "HomeWork11\\OutOfRangeException.cs",
+              "ToolTip": "D:\\Example\\HomeWork11\\HomeWork11\\OutOfRangeException.cs",
+              "RelativeToolTip": "HomeWork11\\OutOfRangeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:09:29.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Example\\HomeWork11\\HomeWork11\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork11\\Program.cs",
+              "ToolTip": "D:\\Example\\HomeWork11\\HomeWork11\\Program.cs",
+              "RelativeToolTip": "HomeWork11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:06:17.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
