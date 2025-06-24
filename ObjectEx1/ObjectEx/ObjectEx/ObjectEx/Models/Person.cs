@@ -1,52 +1,79 @@
-﻿namespace ObjectEx.Models;
-public class Person
+﻿namespace ObjectEx.Models
 {
-    public string Name { get; set; }
-    public int Age { get; set; }
-    public override string ToString()
+    public class Person
     {
-        return $"Name: {Name}, Age: {Age}";
-    }
-    public override bool Equals(object? obj)
-    {
-        if (obj == null)
+        public string Name { get; set; }
+        public int Age { get; set; }
+
+        public override string ToString()
         {
+            return $"Name: {Name}, Age: {Age}";
+        }
+
+        public override bool Equals(object? obj)
+        {
+            if (obj == null)
+            {
+                return false;
+            }
+
+            if (ReferenceEquals(this, obj))
+            {
+                return true;
+            }
+
+            if (obj is Person other)
+            {
+                return other.Name == Name && other.Age == Age;
+            }
+
             return false;
         }
 
-        if (ReferenceEquals(this, obj))
+        public override int GetHashCode()
         {
-            return true;
+            return HashCode.Combine(Name, Age);
         }
 
-        if (obj is Person other)
+        public static bool operator ==(Person a, Person b)
         {
-            return other.Name == Name && other.Age == Age;
+            if (ReferenceEquals(a, b))
+            {
+                return true;
+            }
+
+            if (a is null || b is null)
+            {
+                return false;
+            }
+
+            return a.Equals(b);
         }
 
-        return false;
-    }
-    // GetHashCode() - для видимости 
-    public override int GetHashCode()
-    {
-        return HashCode.Combine(Name, Age);
-    }
-    public static bool operator ==(Person a, Person b)
-    {
-        if (ReferenceEquals(a, b))
+        public static bool operator !=(Person a, Person b)
         {
-            return true;
+            return !(a == b);
         }
 
-        if (a is null || b is null)
+        // Перегрузка операторов > и <
+        public static bool operator >(Person a, Person b)
         {
-            return false;
+            if (a is null || b is null)
+            {
+                throw new ArgumentNullException("Один из объектов Person равен null.");
+            }
+
+            return a.Age > b.Age;
         }
 
-        return a.Equals(b);
-    }
-    public static bool operator !=(Person a, Person b)
-    {
-        return !(a == b);
+        public static bool operator <(Person a, Person b)
+        {
+            if (a is null || b is null)
+            {
+                throw new ArgumentNullException("Один из объектов Person равен null.");
+            }
+
+            return a.Age < b.Age;
+        }
     }
 }
