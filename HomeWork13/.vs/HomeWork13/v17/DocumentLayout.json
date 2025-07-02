@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Example\\HomeWork13\\",
+  "WorkspaceRootPath": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|d:\\example\\homework13\\homework13\\newsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|solutionrelative:homework13\\newsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|d:\\example\\homework13\\homework13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|d:\\exemplecsharp\\examplecsharp\\homework13\\homework13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|solutionrelative:homework13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|d:\\example\\homework13\\homework13\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|d:\\exemplecsharp\\examplecsharp\\homework13\\homework13\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|solutionrelative:homework13\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|d:\\exemplecsharp\\examplecsharp\\homework13\\homework13\\newsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6149FFC2-9644-486A-B877-5BE76E1FDDB2}|HomeWork13\\HomeWork13.csproj|solutionrelative:homework13\\newsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Client.cs",
-              "DocumentMoniker": "D:\\Example\\HomeWork13\\HomeWork13\\Client.cs",
+              "DocumentMoniker": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork13\\HomeWork13\\Client.cs",
               "RelativeDocumentMoniker": "HomeWork13\\Client.cs",
-              "ToolTip": "D:\\Example\\HomeWork13\\HomeWork13\\Client.cs",
+              "ToolTip": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork13\\HomeWork13\\Client.cs",
               "RelativeToolTip": "HomeWork13\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T20:14:36.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NewsProvider.cs",
-              "DocumentMoniker": "D:\\Example\\HomeWork13\\HomeWork13\\NewsProvider.cs",
+              "DocumentMoniker": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork13\\HomeWork13\\NewsProvider.cs",
               "RelativeDocumentMoniker": "HomeWork13\\NewsProvider.cs",
-              "ToolTip": "D:\\Example\\HomeWork13\\HomeWork13\\NewsProvider.cs",
+              "ToolTip": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork13\\HomeWork13\\NewsProvider.cs",
               "RelativeToolTip": "HomeWork13\\NewsProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T19:44:41.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Example\\HomeWork13\\HomeWork13\\Program.cs",
+              "DocumentMoniker": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork13\\HomeWork13\\Program.cs",
               "RelativeDocumentMoniker": "HomeWork13\\Program.cs",
-              "ToolTip": "D:\\Example\\HomeWork13\\HomeWork13\\Program.cs",
+              "ToolTip": "D:\\ExempleCSharp\\ExampleCSharp\\HomeWork13\\HomeWork13\\Program.cs",
               "RelativeToolTip": "HomeWork13\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T19:43:01.097Z",
               "EditorCaption": ""

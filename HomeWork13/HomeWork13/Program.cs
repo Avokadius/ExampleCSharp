@@ -5,24 +5,25 @@ namespace HomeWork13
     {
         static void Main(string[] args)
         {
-            NewsProvider newsProvider = new NewsProvider();
+            var newsProvider = new NewsProvider();
 
-            Client lyci = new Client("Люси");
-            Client alla = new Client("Алла");
-            Client bogdan = new Client("Богдан");
+            // Создаем клиентов
+            var client1 = new Client("Клиент 1");
+            var client2 = new Client("Клиент 2");
 
-            newsProvider.Subscribe(lyci, "Новости");
-            newsProvider.Subscribe(alla, "Спорт");
-            newsProvider.Subscribe(bogdan, "Погода");
-            newsProvider.Subscribe(bogdan, "Новости");
-            newsProvider.Subscribe(lyci, "Спорт");
+            // Подписываем клиентов на разные категории
+            newsProvider.Subscribe("новости", client1.ReceiveNews);
+            newsProvider.Subscribe("погода", client2.ReceiveNews);
 
-            newsProvider.Notify("Новости", "Сегодня важные события в мире.");
-            newsProvider.Notify("Спорт", "Команда выиграла матч!");
-            newsProvider.Notify("Погода", "Завтра ожидается дождь.");
+            // Рассылаем новости
+            newsProvider.Notify("новости", "Сегодня новое событие в мире!");
+            newsProvider.Notify("погода", "Сегодня солнечно и тепло.");
 
-            newsProvider.Unsubscribe(alla, "Спорт");
-            newsProvider.Notify("Спорт", "Новые результаты чемпионата.");
+            // Отписываем клиента 1 от новостей
+            newsProvider.Unsubscribe("новости", client1.ReceiveNews);
+
+            // Рассылаем еще одну новость
+            newsProvider.Notify("новости", "Новое событие в спорте!");
         }
     }
 }

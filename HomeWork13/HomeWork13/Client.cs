@@ -1,13 +1,15 @@
 ﻿namespace HomeWork13;
 public class Client
 {
-    public string Name { get;}
+    private readonly string name;
+    
     public Client(string name)
     {
-        Name = name;
+        this.name = name;
     }
-    public void ReceiveNews(string category, string message)
+
+    public void ReceiveNews(string message)
     {
-        Console.WriteLine($"[{category}] {Name} получил новость: {message}");
+        Console.WriteLine($"{name} получил новость: {message}");
     }
 }
